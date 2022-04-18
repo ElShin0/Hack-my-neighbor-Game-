@@ -1,0 +1,10 @@
+Hola, me presento, mi nombre es Mc-zet4
+
+ Te tengo un reto, lo que tienes que hacer es: con terminal usa los comandos para desencriptar el archivo "secret_files.zip" y con el encontrar la llave y tener derechos de super usuario para despues doxear a tus vecino molesto.
+
+Saludos, sé que podras con eso.
+
+P.D.: En el ethernet explorer entra a este repostorio: https://github.com/Mc-zet4/Ethernet-Explorer.git
+ahí encontraras lo nececari opara realiar este reto.
+
+att: Mc-zet4

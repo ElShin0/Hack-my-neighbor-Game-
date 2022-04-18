@@ -1,0 +1,10 @@
+Hello, I introduce myself, my name is Mc-zet4
+
+  I have a challenge for you, what you have to do is: with terminal use the commands to decrypt the file "secret_files.zip" and with it find the key and have super user rights to later dox your annoying neighbor.
+
+Greetings, I know you can handle that.
+
+  In ethernet explorer go to this repository: https://github.com/Mc-zet4/Ethernet-Explorer.git
+There you will find what you need to complete this challenge.
+
+at: Mc-zet4

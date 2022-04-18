@@ -1,0 +1,82 @@
+Guia para jugar hack my neighbor
+-se recomienda tener un minimo de experiencia con comandos, aunque se puede jugar sin saber nada solo sigue la guia
+-En ningun momento cierres la ventana del juego o toda la partida se perderá.
+-Todos los comandos y """hackeos""" son ficticios y no buscan incitar al hacking no etico o creaking, solo se hace con el fin de entretener
+
+Para poder jugar necesitamos conocer los comandos, para eso usamos el comamdo "help", cosa a recalcar es que todos los comandos van en minusculas, sin espacios ni acentos.
+
+ Empecemos esta aventura, primero veamos que archivos tenemos con el comando "dir". Ahora abre el archivo "mision.txt" escribiando su nombre y su extencion es decir escribe "mision.txt" para abrirlo.
+Una vez que termines de leer el archivo cierralo y vuelve a la terminal ahora tenemos que entrar al explorador, para eso necesitamos internet, usa el comando "ipconfig" para ver el estado de la red y los puertos aviertos, ahí veras algo así:
+
+********************************
+Ip: 192.168.1.254
+Mac: 2607:f8b0:4012:800::200e
+Open ports: 8080
+Closed port: 52400
+Wifi: false
+********************************
+
+El Open ports esta en 8080 así que tenemos que cambiarlo por el 52400 para poder tener coneccion a internet, para ello tenemos que usar el comando "newport" y pulsar enter para invertir los puertos, ahora volvamos a comprobar el estado de la red volviendo a usar el comando "ipconfig" deve salir algo como esto:
+
+*******************************
+Ip: 192.168.1.254
+Mac: 2607:f8b0:4012:800::200e
+Open ports: 52400
+Closed port: 8080
+wifi: true
+*******************************
+
+Si aparece eso significa que los puertos fueron invertidos correctamente, ahora tenemos acceso a internet.
+Lo siguiente sera usar el comando "start-e" para iniciar el explorador.
+ya dentro del explorador tenemos que entrar a este repostorio de github: https://github.com/Mc-zet4/Ethernet-Explorer.git
+ahí encontraremos algo así:
+
+******************************************************************
+Ethernet Explorer: https://github.com/Mc-zet4/Ethernet-Explorer.git
+
+.git
+paswords
+comands
+
+Moverse a: <=Aqui pondremos el nombre de la carpeta a la que queremos ir
+******************************************************************
+
+Ahí encontraremos 3 opciones la ".git" es para salir de github, la que dice "paswords" es una carpeta y podemos escribir su nombre para movernos a ella, la que dice "comands" es una carpeta y podemos escribir su nombre para movernos a ella.
+Primero entramos a la carpeta "paswords" donde encontraremos la contraceña del archivo "secret_files.zip" Copia y pega la contraseña aqui:
+
+Contraseña de "secret_files.zip":
+
+Muy bien ahora pulsa cualquier tecla para regresar al menu anterior. Ahora entremos a la carpeta "comands" donde encontraremos 2 comandos secretos, copia y pega los comandos aqui:
+
+Comando secreto1:
+Comando secreto2:
+
+Ya casi terminamos, ahora toca cualquier tecla para volver al menu anterior, en el menu prinsipal escribiremos ".git" para salir. Ahora usaremos el comando "dir" para ver los archivos, despues abrimos el archivo "secret_files.zip" poniendo su nombre completo de manera correcta. Ahora extraemos la carpeta con el archivo "Key_finder" usando la contraseña anterior (manteniendo avierta la ventana del juego). Una ves extraido ejecutamos el archivo "Key_finder" para conseguir la llave y tener derechos de super usuario copia y poega la llave aqui:
+
+llave super usuario:
+
+Para tener los derechos de super usuario cerramos la ventana del "Key_finder" y volvemos a la terminal del juego para introducir el comando "sudo", nos pedira una llave, ahí ponemos la llave anterior. Ahora con los permisos de super usuario procederemos a doxear al vecino. Usando el comando secreto 1 (terminacion: finder) introducimos el comando y ahí estara buscando ips cercanas y la de nuestro vecino es la mas cercana.
+
+ip del vecino:
+
+despues de encontrar la ip usamos el comando secreto 2 (terminacion: delete) introducimos el comando y despues deveremos introducir la ip del vecino para destruirla. Una vez destruida el trabajo esta hecho.
+
+Fin.
+
+Gracias por jugar este juego
+creado por: RiAgHe
+
+
+
+Final 2
+ Al terminar el final 1 se desbloqueara un nuevo comando en el "help" el cual podemos usar para conectarnos al vecino mediante ssh, para ello tenermos que escribir el comando "ssh" veremos algo como esto:
+********************
+puerto:     <=Aqui podemos poner uno de estos puertos [21,22,25,80,110,443,3306,5000]
+ip:          <=Aqui pondremos la ip del vecino
+********************
+Despues de conectarnos de manera remota (podemos hacer "whoami" para comprobar) tendremos que entrar al explorador para descargar algun malware, para ello usamos el comando "start-e" y en la barra de busqueda pondremos "malware" y lo descargamos e instalamos
+
+Fin.
+
+Gracias por jugar este juego
+creado por: RiAgHe
